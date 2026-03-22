@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I enjoy playing chess and love breaking down complex positions like solving a puzzle.**
 
-<h3 align="centert">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abka ferguson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abka ferguson" height="30" width="40" /></a>
 <a href="https://instagram.com/just_abka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_abka" height="30" width="40" /></a>
