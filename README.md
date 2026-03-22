@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abka012&label=Profile%20views&color=0e75b6&style=flat&cache_seconds=1800" alt="abka012" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abka012&theme=onedark&no-frame=true&margin-w=10&cache_seconds=1800" /> </p>
-
 - 🔭 I’m currently working on [A web app properties for rent/sale](https://github.com/Abka012/info3180-project1)
 
 - 👯 I’m looking to collaborate on [A Game Engine](https://github.com/Abka012/Game-Engine)
