@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fergusonabka012@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ESkUG6pZIiKXKM3Gms3ZqUBw6bS_1nWJ0UIxRx24e5w/edit?usp=sharing](https://docs.google.com/document/d/1ESkUG6pZIiKXKM3Gms3ZqUBw6bS_1nWJ0UIxRx24e5w/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ESkUG6pZIiKXKM3Gms3ZqUBw6bS_1nWJ0UIxRx24e5w/edit?usp=sharing)
 
 - ⚡ Fun fact **I enjoy playing chess and love breaking down complex positions like solving a puzzle.**
 
