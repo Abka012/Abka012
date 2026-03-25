@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Abka</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+@+UWI;I+build+things+that+solve+problems;Interested+in+Systems+%26+Web+Development;Always+learning+something+new" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+@+UWI;I+build+things+that+solve+problems;Interests+in+System+%26+Web+Development;Always+learning+something+new" />
 </p>
 
 <p align="center">
