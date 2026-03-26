@@ -4,8 +4,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+@+UWI;I+build+things+that+solve+problems;Interests+in+System+%26+Web+Development;Always+learning+something+new" />
 </p>
 
+---
+
+## 🌐 Portfolio
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abka012&label=Profile%20views&color=blueviolet&style=flat" />
+<a href="https://portfolio-website-five-psi-40.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
