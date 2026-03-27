@@ -59,19 +59,6 @@ PyTorch • TensorFlow • Pandas • Scikit-learn
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abka012&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=abka012&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abka012&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
