@@ -91,6 +91,7 @@ PyTorch • TensorFlow • Pandas • Scikit-learn
 <p align="center">
 📧 fergusonabka012@gmail.com <br>
 📄 <a href="https://docs.google.com/document/d/1ESkUG6pZIiKXKM3Gms3ZqUBw6bS_1nWJ0UIxRx24e5w/edit?usp=sharing">Resume</a>
+📄 <a href="https://docs.google.com/document/d/13DaVrHwy8EgoCQbpGhLouE5YJYqanVMmcOPSECRncaE/edit?usp=sharing">CV</a>
 </p>
 
 ---
