@@ -83,9 +83,6 @@ PyTorch • TensorFlow • Pandas • Scikit-learn
 <a href="https://www.linkedin.com/in/abka-ferguson-b5101a286/">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
-<a href="https://instagram.com/just_abka">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-</a>
 </p>
 
 <p align="center">
