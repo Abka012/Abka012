@@ -33,7 +33,6 @@
 ## 🚀 What I'm Working On
 
 ```diff
-+ 🎮 Game Engine (graphics + systems)
 + 🧪 Exploring AI + backend systems
 ```
 
