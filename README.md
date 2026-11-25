@@ -19,8 +19,7 @@
 ## 🧠 About Me
 
 ```text
-> I like breaking things down, understanding them,
-> and rebuilding them better.
+> I like breaking things down, understanding them.
 ```
 
 * 🎓 Computer Science student at UWI
